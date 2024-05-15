@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Flappy-Meals/main/static/css/main.09f56e22.css",
-    "main.js": "/Flappy-Meals/main/static/js/main.d5bb64c7.js",
-    "static/js/453.2f0f79c9.chunk.js": "/Flappy-Meals/main/static/js/453.2f0f79c9.chunk.js",
-    "static/media/Vector.png": "/Flappy-Meals/main/static/media/Vector.c6d39e3adfeed2a5a867.png",
-    "static/media/mobile.png": "/Flappy-Meals/main/static/media/mobile.b0ee33a7d45bbe027c60.png",
-    "static/media/img.png": "/Flappy-Meals/main/static/media/img.4fde8f7f3b7d849e9313.png",
-    "static/media/love.svg": "/Flappy-Meals/main/static/media/love.b2f8dea0ba8a0a269fe47790f8226833.svg",
-    "index.html": "/Flappy-Meals/main/index.html",
-    "main.09f56e22.css.map": "/Flappy-Meals/main/static/css/main.09f56e22.css.map",
-    "main.d5bb64c7.js.map": "/Flappy-Meals/main/static/js/main.d5bb64c7.js.map",
-    "453.2f0f79c9.chunk.js.map": "/Flappy-Meals/main/static/js/453.2f0f79c9.chunk.js.map"
+    "main.css": "/Flappy-Meals/static/css/main.09f56e22.css",
+    "main.js": "/Flappy-Meals/static/js/main.5de315f0.js",
+    "static/js/453.2f0f79c9.chunk.js": "/Flappy-Meals/static/js/453.2f0f79c9.chunk.js",
+    "static/media/Vector.png": "/Flappy-Meals/static/media/Vector.c6d39e3adfeed2a5a867.png",
+    "static/media/mobile.png": "/Flappy-Meals/static/media/mobile.b0ee33a7d45bbe027c60.png",
+    "static/media/img.png": "/Flappy-Meals/static/media/img.4fde8f7f3b7d849e9313.png",
+    "static/media/love.svg": "/Flappy-Meals/static/media/love.b2f8dea0ba8a0a269fe47790f8226833.svg",
+    "index.html": "/Flappy-Meals/index.html",
+    "main.09f56e22.css.map": "/Flappy-Meals/static/css/main.09f56e22.css.map",
+    "main.5de315f0.js.map": "/Flappy-Meals/static/js/main.5de315f0.js.map",
+    "453.2f0f79c9.chunk.js.map": "/Flappy-Meals/static/js/453.2f0f79c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09f56e22.css",
-    "static/js/main.d5bb64c7.js"
+    "static/js/main.5de315f0.js"
   ]
 }
